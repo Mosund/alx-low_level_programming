@@ -4,6 +4,7 @@
  * main - print _putchar, followed by new line
  * Return: 0
  */
+int _putchar(void);
 
 int main(void)
 {
