@@ -4,6 +4,7 @@
  * print_alphabet_x10 - print lowercase alphabet ten times
  * Return: 0
  */
+int _putchar(int n)
 
 void print_alphabet_x10(void)
 {

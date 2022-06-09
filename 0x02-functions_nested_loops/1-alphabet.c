@@ -4,6 +4,7 @@
  * print_alphabet - prints lowercase alphabet
  * Return: 0
  */
+void _putchar(void)
 
 void print_alphabet(void)
 {
